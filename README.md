@@ -57,7 +57,7 @@ Follow these steps to set up the project locally:
 
 **Clone the repository**:
    ```bash
-   git clone https://github.com/JosueIsOffline/finance-saas-platform.git
+   git clone https://github.com/RAGHUIITM/Finance-Saas-Platform.git
    cd finance-saas-platform
 
 ## Getting Started
